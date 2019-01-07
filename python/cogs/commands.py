@@ -10,8 +10,6 @@ Commands:
     ms-dos unique           Displays a list of the most unique ms-dos commands.
     unix search {word}      Searches the descriptions of the unix commands based on the word provided.
     ms-dos search {word}    Searches the descriptions of the ms-dos commands based on the word provided.
-    unix trans {command}    Searches the list of unix commands for the ms-dos equivalent provided.
-    ms-dos trans {command}  Searches the list of ms-dos commands for the unix equivalent provided.
 
 Load the cog by calling client.load_extension with the name of this python file
 as an argument (without the file-type extension)
